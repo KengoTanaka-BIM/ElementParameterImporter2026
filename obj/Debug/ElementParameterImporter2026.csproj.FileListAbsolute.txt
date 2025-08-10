@@ -1,0 +1,6 @@
+C:\test\ElementParameterImporter2026\ElementParameterImporter2026\bin\Debug\ElementParameterImporter2026.dll
+C:\test\ElementParameterImporter2026\ElementParameterImporter2026\bin\Debug\ElementParameterImporter2026.pdb
+C:\test\ElementParameterImporter2026\ElementParameterImporter2026\obj\Debug\ElementParameterImporter2026.csproj.AssemblyReference.cache
+C:\test\ElementParameterImporter2026\ElementParameterImporter2026\obj\Debug\ElementParameterImporter2026.csproj.CoreCompileInputs.cache
+C:\test\ElementParameterImporter2026\ElementParameterImporter2026\obj\Debug\ElementParameterImporter2026.dll
+C:\test\ElementParameterImporter2026\ElementParameterImporter2026\obj\Debug\ElementParameterImporter2026.pdb
